@@ -14,3 +14,7 @@ What are the required python packages?
 •	Numpy
 
 •	sklearn
+
+Method use for prediction 
+
+Support Vector Machine
